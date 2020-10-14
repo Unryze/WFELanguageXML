@@ -1,0 +1,501 @@
+<root>
+	<Translation>
+		<Locales>
+			<Locale>EN</Locale>
+			<Locale>RU</Locale>
+			<Locale>SE</Locale>
+		</Locales>
+
+		<UpdateText>
+			<EN>Update:</EN>
+			<RU>Обновить:</RU>
+			<SE>Uppdateringar:</SE>
+		</UpdateText>
+
+		<KeyBindsButton>
+			<EN>Keys</EN>
+			<RU>Клавиши</RU>
+			<SE>Kommandon</SE>
+		</KeyBindsButton>
+
+		<QuickMSGButton>
+			<EN>Messages</EN>
+			<RU>Сообщения</RU>
+			<SE>Meddelanden</SE>
+		</QuickMSGButton>
+
+		<MSGHotkeyL>
+			<EN>HotKey:</EN>
+			<RU>Хоткей:</RU>
+			<SE>SnabbKmd:</SE>
+		</MSGHotkeyL>
+
+		<MSGMessageL>
+			<EN>Message:</EN>
+			<RU>Сообщение:</RU>
+			<SE>Meddelande:</SE>
+		</MSGMessageL>
+
+		<MSGAddL>
+			<EN>Add:</EN>
+			<RU>Добавить:</RU>
+			<SE>Lägg till:</SE>
+		</MSGAddL>
+
+		<MSGDeleteL>
+			<EN>Delete:</EN>
+			<RU>Удалить:</RU>
+			<SE>Ta bort:</SE>            
+		</MSGDeleteL>
+
+		<MSGTextL>
+			<EN>Text:</EN>
+			<RU>Текст:</RU>
+			<SE>Text:</SE>      
+		</MSGTextL>
+
+		<SettingsButton>
+			<EN>Settings</EN>
+			<RU>Настройки</RU>
+			<SE>Inställningar</SE>                  
+		</SettingsButton>
+
+		<HotKeysButton>
+			<EN>HotKeys</EN>
+			<RU>Хоткеи</RU>
+			<SE>SnabbKmd</SE>      
+		</HotKeysButton>
+
+		<CreditsButton>
+			<EN>Credits</EN>
+			<RU>Благодарности</RU>
+			<SE>Medverkare</SE>      
+		</CreditsButton>
+
+		<SmartCastToolTip>
+			<EN>Smartcast On/Off</EN>
+			<RU>Смарткаст вкл/выкл</RU>
+			<SE>SnabbTangent På/Av</SE>      
+		</SmartCastToolTip>
+
+		<WideScreen>
+			<EN>WideScreen</EN>
+			<RU>Широкоформат</RU>
+			<SE>Bred skärm</SE>      
+		</WideScreen>
+
+		<WideScreenTip>
+			<EN>Can be turned on/off while in Game.</EN>
+			<RU>Может быть вкл/выкл во время игры.</RU>
+            <SE>Kan sättas på/av samtidigt som du spelar.</SE>
+		</WideScreenTip>
+
+		<MouseLock>
+			<EN>Mouse Lock</EN>
+			<RU>Удерживание Мыши</RU>
+			<SE>Fast mus</SE>
+		</MouseLock>
+
+		<MouseLockTip>
+			<EN>Can be turned on/off while in Game.</EN>
+			<RU>Может быть вкл/выкл во время игры.</RU>
+			<SE>Kan sättas på/av medans du spelar.</SE>
+		</MouseLockTip>
+
+		<DisablePause>
+			<EN>Disable Pause</EN>
+			<RU>Отключить Паузу</RU>
+			<SE>Stäng av Paus</SE>
+		</DisablePause>
+
+		<DisableBLPLimit>
+			<EN>Remove BLP Limit</EN>
+			<RU>Убрать BLP лимит</RU>
+			<SE>Ta bort BLP begränsningen</SE>
+		</DisableBLPLimit>
+
+		<RemoveMapSizeLimit>
+			<EN>Remove Map Size Limit</EN>
+			<RU>Убрать Лимит Веса Карт</RU>
+            <SE>Ta bort Map storleks-begränsningen</SE>
+		</RemoveMapSizeLimit>
+
+		<SmartCast>
+			<EN>SmartCast</EN>
+			<RU>СмартКаст</RU>
+            <SE>SnabbTangent</SE>
+		</SmartCast>
+
+		<AutoCast>
+			<EN>AutoCast</EN>
+			<RU>АвтоКаст</RU>
+            <SE>AutoTangent</SE>
+		</AutoCast>
+
+		<HPMPRegen>
+			<EN>HP/MP Regen</EN>
+			<RU>ХП/МП реген</RU>
+            <SE>HP/MP Regen</SE>
+		</HPMPRegen>
+
+		<Modifications>
+			<EN>Modifications:</EN>
+			<RU>Модификации:</RU>
+            <SE>Modifieringar:</SE>
+		</Modifications>
+
+		<OnlyInLobby>
+			<EN>Only in Lobby:</EN>
+			<RU>Только в Лобби:</RU>
+            <SE>Bara i Lobby:</SE>
+		</OnlyInLobby>
+
+		<SendToAll>
+			<EN>Send to All</EN>
+			<RU>Послать Всем</RU>
+            <SE>Skicka till alla</SE>
+		</SendToAll>
+
+		<ManaBar>
+			<EN>ManaBar</EN>
+			<RU>МанаБар</RU>
+            <SE>ManaBar</SE>
+		</ManaBar>
+
+		<ManaBarTip>
+			<EN>Can only be turned on/off in Lobby/Menu.</EN>
+			<RU>Может быть вкл./выкл. только в Лобби/Меню.</RU>
+            <SE>Kan bara sättas på/av i Lobby/Meny.</SE>
+		</ManaBarTip>
+
+		<BarColours>
+			<EN>Health Colours:</EN>
+			<RU>Цвета Здоровья:</RU>
+            <SE>Hälso färg:</SE>
+		</BarColours>
+
+		<YourHPBar>
+			<EN>Your:</EN>
+			<RU>Ваше:</RU>
+            <SE>Din:</SE>
+		</YourHPBar>
+
+		<AllyHPBar>
+			<EN>Ally:</EN>
+			<RU>Союзное:</RU>
+            <SE>Allierade:</SE>
+		</AllyHPBar>
+
+		<EnemyHPBar>
+			<EN>Enemy:</EN>
+			<RU>Вражеское:</RU>
+            <SE>Fiender:</SE>
+		</EnemyHPBar>
+
+		<NeutralHPBar>
+			<EN>Neutral:</EN>
+			<RU>Нейтральное:</RU>
+            <SE>Neutrala:</SE>
+		</NeutralHPBar>
+
+		<InstantRMC>
+			<EN>Instant RMC</EN>
+			<RU>Быстрая ПКМ</RU>
+            <SE>Instant RMC</SE>
+		</InstantRMC>
+
+		<EnforceHotkeys>
+			<EN>Enforce Hotkeys</EN>
+			<RU>Перекрыть Хоткеи</RU>
+            <SE>Förstärk Snabbkommandon</SE>
+		</EnforceHotkeys>
+
+		<LegacyConfig>
+			<EN>Save to WC3 Folder</EN>
+			<RU>Сохранить в Папку Вар 3</RU>
+            <SE>Spara till WC3 mapp</SE>
+		</LegacyConfig>
+
+		<DisplayASMS>
+			<EN>Display AS/MS</EN>
+			<RU>Показать AS/MS</RU>
+            <SE>Visa AS/MS</SE>
+		</DisplayASMS>
+
+		<DisplaySettings>
+			<EN>Display:</EN>
+			<RU>Изображение:</RU>
+            <SE>Förevisa:</SE>
+		</DisplaySettings>
+
+		<FPSLimit>
+			<EN>FPS Limit:</EN>
+			<RU>ФПС Лимит:</RU>
+            <SE>FPS begräns:</SE>
+		</FPSLimit>
+
+		<FPSStatusLabel>
+			<EN>Status:</EN>
+			<RU>Статус:</RU>
+            <SE>Status:</SE>
+		</FPSStatusLabel>
+
+		<DelaySettings>
+			<EN>Delay:</EN>
+			<RU>Задержка:</RU>
+            <SE>Dröjsmål:</SE>
+		</DelaySettings>
+
+		<Action>
+			<EN>Action:</EN>
+			<RU>Действия:</RU>
+            <SE>Handling:</SE>
+		</Action>
+
+		<GameStartDelay>
+			<EN>Game Start:</EN>
+			<RU>Старт Игры:</RU>
+            <SE>Starta Spel:</SE>
+		</GameStartDelay>
+
+		<CamSteps>
+			<EN>Camera Steps:</EN>
+			<RU>Шаги Камеры:</RU>
+            <SE>Kamera Steg:</SE>
+		</CamSteps>
+
+		<Height>
+			<EN>Height:</EN>
+			<RU>Высота:</RU>
+            <SE>Höjd:</SE>
+		</Height>
+
+		<Pitch>
+			<EN>Incline:</EN>
+			<RU>Наклон:</RU>
+            <SE>Lutning:</SE>
+		</Pitch>
+
+		<Yaw>
+			<EN>Rotation:</EN>
+			<RU>Поворот:</RU>
+            <SE>Rotation:</SE>
+		</Yaw>
+
+		<FarZ>
+			<EN>FarZ:</EN>
+			<RU>ДальностьZ:</RU>
+            <SE>LångtZ</SE>
+		</FarZ>
+
+		<Abilities>
+			<EN>Abilities</EN>
+			<RU>Способности</RU>
+            <SE>Förmågor</SE>
+		</Abilities>
+
+		<Items>
+			<EN>Items</EN>
+			<RU>Предметы</RU>
+            <SE>Föremål</SE>
+		</Items>
+
+		<UtilityL>
+			<EN>Utility:</EN>
+			<RU>Утилиты:</RU>
+            <SE>Verktyg:</SE>
+		</UtilityL>
+
+		<SelfCastKeyL>
+			<EN>Self Cast Key:</EN>
+			<RU>Клавиша Каста на Себя:</RU>
+            <SE>Själv Snabb Tangent:</SE>
+		</SelfCastKeyL>
+
+		<AutoCastKeyL>
+			<EN>Autocast Toggle Key:</EN>
+			<RU>Клавиша Вкл/Выкл автокаста:</RU>
+            <SE>AutoTangent Växel Nyckel:</SE>
+		</AutoCastKeyL>
+
+		<SpellBookModeL>
+			<EN>Spellbook/Learn Mode:</EN>
+			<RU>Режим Спелбука/Изучения:</RU>
+            <SE>Spellbok/Lär Läge:</SE>
+		</SpellBookModeL>
+
+		<NeutralUnitModeL>
+			<EN>Neutral Unit Mode:</EN>
+			<RU>Режим Нейтрального Юнита:</RU>
+            <SE>Neutral Enhet Läge:</SE>
+		</NeutralUnitModeL>
+
+		<UpdateDataL>
+			<EN>Update Data:</EN>
+			<RU>Обновить Данные:</RU>
+            <SE>Uppdaterings Data:</SE>
+		</UpdateDataL>
+
+		<WindowModeL>
+			<EN>Window/Borderless:</EN>
+			<RU>Оконный/Без Границ:</RU>
+            <SE>Window/Borderless:</SE>
+		</WindowModeL>
+
+		<MouseLockL>
+			<EN>Mouse Lock On/Off:</EN>
+			<RU>Удержание Мыши Вкл/Выкл:</RU>
+            <SE>Mus Lås På/Av:</SE>
+		</MouseLockL>
+
+		<WideScreenL>
+			<EN>Widescreen On/Off:</EN>
+			<RU>Широкоформат Вкл/Выкл:</RU>
+            <SE>Widescreen På/Av:</SE>
+		</WideScreenL>
+		
+		<PauseL>
+			<EN>Pause On/Off:</EN>
+			<RU>Пауза Вкл/Выкл:</RU>
+            <SE>Paus På/Av:</SE>
+		</PauseL>
+
+		<UIL>
+			<EN>UI Hide/Show:</EN>
+			<RU>UI Скрыть/Показать:</RU>
+            <SE>UI Göm/Visa:</SE>
+		</UIL>
+
+		<ClearMessagesL>
+			<EN>Clear Messages:</EN>
+			<RU>Очистить Сообщения:</RU>
+            <SE>Rensa Meddelanden:</SE>
+		</ClearMessagesL>
+
+		<CameraL>
+			<EN>Camera:</EN>
+			<RU>Камера:</RU>
+            <SE>Kamera:</SE>
+		</CameraL>
+
+		<OverrideL>
+			<EN>Override:</EN>
+			<RU>Перехватить:</RU>
+            <SE>Överskrid:</SE>
+		</OverrideL>
+
+		<RestoreL>
+			<EN>Restore:</EN>
+			<RU>Восстановить:</RU>
+            <SE>Återställ:</SE>
+		</RestoreL>
+
+		<UnitL>
+			<EN>Unit:</EN>
+			<RU>Юнит:</RU>
+            <SE>Enhet:</SE>
+		</UnitL>
+
+		<SaveL>
+			<EN>Save:</EN>
+			<RU>Сохранить:</RU>
+            <SE>Spara:</SE>
+		</SaveL>
+
+		<SelectL>
+			<EN>Select:</EN>
+			<RU>Выбрать:</RU>
+			<SE>Välj:</SE>
+		</SelectL>
+
+		<AutoSelectL>
+			<EN>Autoselect On/Off:</EN>
+			<RU>Автовыбор Вкл/Выкл:</RU>
+            <SE>Autovälj På/Av:</SE>
+		</AutoSelectL>
+
+		<ClearL>
+			<EN>Clear Selection:</EN>
+			<RU>Очистить Выделение:</RU>
+            <SE>Rensa selektion:</SE>
+		</ClearL>
+
+		<Save>
+			<EN>Save</EN>
+			<RU>Окей</RU>
+            <SE>Spara</SE>
+		</Save>
+
+		<Inject>
+			<EN>Inject</EN>
+			<RU>Инжект</RU>
+            <SE>Injicera</SE>
+		</Inject>
+
+		<DllName>
+			<EN>DLL Name:</EN>
+			<RU>Имя DLL:</RU>
+            <SE>DLL Namn:</SE>
+		</DllName>
+
+		<AutoInjectBox>
+			<EN>Auto-Inject</EN>
+			<RU>Авто-Инжект</RU>
+            <SE>Auto-Injicera</SE>
+		</AutoInjectBox>
+
+		<LauncherButton>
+			<EN>Launcher</EN>
+			<RU>Лаунчер</RU>
+            <SE>Startplatta</SE>
+		</LauncherButton>
+
+		<LaunchButton>
+			<EN>Launch</EN>
+			<RU>Запуск</RU>
+            <SE>Starta</SE>
+		</LaunchButton>
+
+		<GamePathLabel>
+			<EN>Game Path:</EN>
+			<RU>Путь Игры:</RU>
+            <SE>Spelets Sökväg:</SE>
+		</GamePathLabel>
+
+		<LaunchArgumentsLabel>
+			<EN>Launch Arguments:</EN>
+			<RU>Аргументы Запуска:</RU>
+            <SE>Start Argument:</SE>
+		</LaunchArgumentsLabel>
+
+		<MainWindowNameLabel>
+			<EN>Main Window Name:</EN>
+			<RU>Имя Главного Окна:</RU>
+            <SE>Huvud Window Namn:</SE>
+		</MainWindowNameLabel>
+
+		<WindowNameLabel>
+			<EN>Window Name:</EN>
+			<RU>Имя Окна:</RU>
+            <SE>Window Namn:</SE>
+		</WindowNameLabel>
+
+		<AdditionalLibrariesPath>
+			<EN>Additional Libraries Path:</EN>
+			<RU>Путь к Дополнительным Библиотекам:</RU>
+            <SE>Ytterligare bibliotek:</SE>
+		</AdditionalLibrariesPath>
+		
+		<ChangeButton>
+			<EN>Change:</EN>
+			<RU>Изменить:</RU>
+            <SE>Förändra:</SE>
+		</ChangeButton>
+
+		<Language>
+			<EN>Language:</EN>
+			<RU>Язык:</RU>
+            <SE>Språk:</SE>
+		</Language>
+	</Translation>
+</root>
